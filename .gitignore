@@ -1,0 +1,7 @@
+/model/target/*
+/persistence/target/*
+/web/target/*
+/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_1_5_10_RELEASE.xml
+/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_1_5_10_RELEASE.xml
+/.idea/jarRepositories.xml
+/.idea/vcs.xml
