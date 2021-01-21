@@ -7,3 +7,7 @@
 /.idea/vcs.xml
 /.idea
 /target/*
+/web/web.iml
+/model/model.iml
+/persistence/persistence.iml
+/springbootAppDemo.iml
